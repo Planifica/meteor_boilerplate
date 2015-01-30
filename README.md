@@ -5,6 +5,7 @@ Minimalistic boilerplate for meteor-based projects
 ### removed
 - insecure
 - autopublish
+
 ### added
 - iron:router
 - stevezhu:lodash (drop-in replacement for underscore)

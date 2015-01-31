@@ -9,3 +9,8 @@ iron:router
 stevezhu:lodash
 nooitaf:semantic-ui
 jquery
+useraccounts:core
+useraccounts:semantic-ui
+cfs:standard-packages
+cfs:gridfs
+manuelschoebel:ms-seo
